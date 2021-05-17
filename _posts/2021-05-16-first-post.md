@@ -28,3 +28,4 @@ GitHub Pages에 올리면서 블로그 글의 내용을 확인하면 시간이 �
 
 또 markdown 못했다. 내일은 진짜 하자.
 그래도 오늘 talkBot 마무리 해서 기분 좋다.
+gh-pages branch
