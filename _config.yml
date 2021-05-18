@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Bug's devlog"
 title_separator          : "-"
 subtitle                 : "code lover"
-name                     : "Junior Developer"
+name                     : "junior Developer"
 description              : "활자중독."
 url                      : "https://baebug.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Junior Developer"
   avatar           : "/assets/images/profile-newspaper.jpg"
-  bio              : "활자중독."
+  bio              : "활자 중독."
   location         : "South Korea"
-  email            : "ufr134@gmail.com"
+  email            : #
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
