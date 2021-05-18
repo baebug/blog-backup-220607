@@ -6,7 +6,7 @@ categories:
   - Blog
 tags:
   - Blog
-last_modified_at: 2021-05-17T00:04:00
+last_modified_at: 2021-05-18 09:18:00 +0900
 ---
 
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
@@ -29,3 +29,5 @@ GitHub Pages에 올리면서 블로그 글의 내용을 확인하면 시간이 �
 또 markdown 못했다. 내일은 진짜 하자.
 그래도 오늘 talkBot 마무리 해서 기분 좋다.
 gh-pages branch
+
+**한국 시간은 +0900이다.**
