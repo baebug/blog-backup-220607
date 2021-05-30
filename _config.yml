@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bug's devlog"
+title                    : "code Notes"
 title_separator          : "-"
-subtitle                 : "code lover"
-name                     : "junior Developer"
-description              : "활자 중독."
+subtitle                 : "꾸준히 기록하기"
+name                     : "baebug"
+description              : "Junior developer"
 url                      : "https://baebug.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,11 +92,11 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+# Site Author (좌상단 게재)
 author:
-  name             : "Junior Developer"
+  name             : "baebug"
   avatar           : "/assets/images/profile-newspaper.jpg"
-  bio              : "활자 중독."
+  bio              : "Junior developer"
   location         : "South Korea"
   email            : #
   links:
